@@ -9,8 +9,10 @@ High-speed Python Automation Engine for Lead Generation. Built &amp; Deployed vi
 ​Mobile-First Architecture: Designed, coded, and deployed 100% on mobile.
 ​🧪 Live Demo:
 ​Try the automation engine live on Hugging Face: https://huggingface.co/spaces/Silicon-Logic-2026/lead-sniper-pro
+
 ​📊 Verified Results:
 ​Check out the sample data extracted by this tool on Kaggle: https://www.kaggle.com/datasets/contacttheaiflow/b2b-leads-and-business-social-profiles-sample-2026
+
 ​📦 Get Full Source Code & Commercial License
 ​To use this tool for your agency or personal business, get the full source code (Private Logic + Deployment Guide) on Gumroad:
 ​👉 BUY ON GUMROAD 💰 :https://aiflow23.gumroad.com/l/lrkwq
